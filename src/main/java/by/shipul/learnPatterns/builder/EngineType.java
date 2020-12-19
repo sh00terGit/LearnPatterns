@@ -1,2 +1,6 @@
-package by.shipul.learnPatterns.builder;public enum EngineType {
+package by.shipul.learnPatterns.builder;
+
+public enum EngineType {
+
+    BENSIN,DIESEL;
 }
